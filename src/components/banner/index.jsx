@@ -3,7 +3,7 @@ import styled from "styled-components"
 const Banner_container = styled.div`
     width:100%;
     min-height:328px;
-    background-image: url("src/assets/banner.png");
+    background-image: url("./assets/banner.png");
     background-repeat: no-repeat;
     display: flex;
     justify-content: flex-start;
